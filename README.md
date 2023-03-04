@@ -38,7 +38,7 @@ source env/bin/activate
 
 ```
 
-3. Install dependencies mention in th pipfile
+3. Install dependencies mention in the pipfile
 
 
 4. Create a PostgreSQL database and add the database credentials to settings.py
