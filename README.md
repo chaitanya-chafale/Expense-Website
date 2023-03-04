@@ -63,7 +63,7 @@ python manage.py runserver
 
 7. Open the website in your browser at http://localhost:8000
 
-Note:- The category need to be inserted manually in the expense and income db using the http://localhost:8000/admin or using the shell.
+Note:- The category need to be inserted manually in the expense and income db using the http://localhost:8000/admin (Login using superuser, create using the command python manage.py createsuperuser) or using the shell. [Working on Adding this in the next release]
 
 ## Screenshots
 
