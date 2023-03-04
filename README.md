@@ -1,6 +1,6 @@
 # TracX
 
-This is an expense and income tracking website created using Django web framework with PostgreSQL as a database. The website allows users to track their expenses and incomes, as well as provides intuitive visual graphs for the expenses and income categories.\
+This is an expense and income tracking website created using Django web framework with PostgreSQL as a database. The website allows users to track their expenses and incomes, as well as provides intuitive visual graphs for the expenses and income categories.
 
 ## Features
 
